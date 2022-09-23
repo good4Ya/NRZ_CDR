@@ -1,2 +1,4 @@
 # NRZ_CDR
-recorver remotr clock form data which flips with remote clock
+recorver remote clock form data which flips with remote clock
+without loop filter
+the frequency of clk higher is better.
